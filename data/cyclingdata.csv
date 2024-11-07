@@ -1,0 +1,94 @@
+first name,last name,age,distance from home,cause,injuries,overnights in hospital,time of accident,day of accident,month of accident,Officer reporting,wearing a helmet?
+Farhan,Ali,13,250m,hit lamp-post,compression,1,9.15 am,Saturday,October,39014,
+Martin,Anderson,31,,drunk,abrasions,1,23.30,Friday,February,78264,n
+Marcus,Appleton,64,2 miles,car pulled out,concussion,2,8.25am,Monday,August,97655,n
+Lucy,Avon,52,500m,lorry turning,abrasions,0,7.50am,Thursday,,39014,
+Thomas,Bailey,10,500m,hit friend,suspected concussion,0,4pm,Sunday,June,78264,y
+Andrew,Burke,18,1 km,car door opened,abrasions,,3pm,Sunday,September,45211,y
+Lee,Burnett,18,3 km,kerb,sprains,0,8am,Monday,April,78264,y
+Clive,Burrows,16,about 1 mile,slipped on wet leaves,sprained wrist,0,6.00am,Tuesday,November,78264,y
+Nathaniel,Carley,32,1.4 miles,hit by car,concussion,1,6.30 am,Monday,July,39813,n
+Rory,Clark,44,100 m,hit by car while turning,"concussion, multiple fractures",1,17.20,Friday,January,97655,n
+Crystal,Cook,61,1.5 miles,didn’t see car,"broken arm, bruising, shock",1,10.45am,Wednesday,August,97655,n
+Christopher,Court,60,7 km,turning lorry,dislocated elbow,0,8.30am,Tuesday,August,97655,y
+Sally,Darby,18,2km,knocked by bus,concussion,1,5pm,Tuesday,December,78264,y
+Terry,Davidson,7,outside,hit tree,suspected concussion,1,6pm,Monday,June,78264,y
+Matthew,de Leon,46,4 miles,knocked by car,sprains and shock,0,10am,Saturday,April,78264,y
+Michael,Delaney,20,300m,skidded into wall,abrasions,0,7.10am,Tuesday,February,78264,n
+Sarah,Doyle,62,2 miles,hit kerb,fractured wrist,0,10.30,Wednesday,Oct ,78264,n
+Alexander,Duggan,34,0.5 miles,brakes failed,concussion,0,7.30 am,Monday,January,39813,n
+Selena,Fenney,10,0m,fell over,concussion,1,6pm,Wed ,February,39813,y
+Ceri,Flynn,9,300yds,fell off,sprained wrist,0,3pm,Friday,August,97655,y
+Harry,Francis,9,1 mile,car hit,broken leg and abrasions,0,10am,Monday,August,97655,y
+Fred,Fuller,6,20m,fell over,concussion,1,3.15,Sunday,September,39813,y
+Toby,Geary,14,1.5 kn,knocked off by car,broken wrist and arm,0,8am,Wednesday,October,78264,y
+Stacey,Geary,44,2 miles,minibus turning,"abrasions, shock",0,8.25am,Thursday,June,39813,n
+Mary,Geraghty,67,1 mile,pedestrian,"abrasions, shock",0,11.30am,Wednesday,March,39813,n
+Luke,Grainger,13,0.5 km,lorry turning,"broken leg, concussion",1,8pm,Saturday,Spetember,54211,
+Sharon,Griffin,7,75 m,uneven pavement,broken leg,1,2.35,Saturday,May,45211,y
+Lara,Haas,28,3 miles,,sprained wrist,0,1630,Tuesday,November,39813,n
+Joseph,Hall,63,0.5 miles,lorry,"multiple fractures, head injury",5,4.30 pm,Friday,November,39813,n
+Aidan,Hart,66,3 miles,hit cyclist,"abrasions, shock",0,3.30pm,Tuesday,June,39813,y
+Penny,Hickey,26,3 miles,hit hedge to avoid bus,abrasions,0,4.45,Tuesday,February,39813,y
+Claire,Higgins,19,10 km,hit by car at roundabout,fractured arm and sprained wrist,0,7.45am,Monday,Feb ,78264,y
+Francesca,Hill,22,0.5 miles,car,broken arm,0,5.50pm,Tuesday,September,78264,n
+Fortune,Hilton,29,12km,car changing lanes,broken arm and leg,2,6.50pm,Wednesday,January,97655,y
+Rhys,Hooper,22,115km,multiple vehicles,multiple fractures,3,8.30am,Monday,March,39813,y
+Adam,Housman,39,11km,hit by car,broken arm,0,5.50pm,Monday,January,97655,y
+Eden,Howell,14,50m ,brakes failed,abrasions,none,6.30 am,Tues ,March,97655,y
+David,Huker,8,50m ,hit cyclist,concussion,1,10,Saturday,May,97655,n
+Edward,Hunton,7,50m ,fell off,severe abrasions,0,2.30pm,Friday,August,97655,y
+Avril,Johnson,9,own home,hit wall,dislocated knee,1,1700,Thusrday,August,39813,y
+George,Jones,37,9km,lorry collision,punctured lung,8,7.15am,Wednesday,February,78264,y
+Roger,Kenny,62,7 miles,car changed lanes,multiple fractures,1,1800,Thursday,May,39813,y
+Henry,Kerridge,,3 miles,hit by car  ,abrasions,0,8.30am,Tuesday,August,97655,y
+Debbie,Lane,5,75 km,hit kerb,broken arm,0,9.00am,Sunday,April,78264,y
+Scott,Learman,61,3 miles,avoiding children,sprained wrist and broken arm,0,4.15pm,Monday,November,39813,n
+Gary,Lighter,59,,car braking,concussion,1,1730,Friday,November,39813,n
+Seren,Maher,16,20m,hit kurb,dislocated elbow,0,7am,Wednesday,November,78264,n
+Shelley,Mann,21,50m ,slipped on wet leaves,"deep cuts to legs, strained wrist",0,9pm,Friday,January,97655,y
+Harry,Markson,15,3km,collision with cyclist,unreadable,0,8am,Monday,March,39813,y
+Jeremy,Marlow,55,6.5 km,lorry at roundabout,multiple fractures,2,,Monday,June,97655,y
+Michael,Marston,23,3 miles,car braked suddenly,head injuries,1,8.20am,Friday,November,97655,y
+Joanne,Mason,26,2 miles,lorry turning left,concussion and broken arm,1,10am,Saturday,May,39014,
+Jennifer,Massey,10,100m,fell off,suspected concussion,0,8 am,Saturday,Sept ,39014,
+Justin,Matthews,6.5,1 mile,hit wall,broken arm,0,noon,Tuesday,August,97655,y
+Sam,Maynard,28,1.5 km,pothole,unreadable,0,5.20 pm,Thursday,July,97655,n
+Richard,McLennan,22,1 mile,car,bruising,0,8.10am,Wednesday,April,78264,y
+Owen,Mitchell,61,1 mile,pothole,suspected concussion,1,9.30am,Tuesday,June,39813,n
+Lisa,Montgomery,16,300m,fell over,abrasions,0,3pm,Saturday,June,39813,n
+James,Moore,20,2km,trying to fix chain,partially severed finger,0,7am,Monday,June,97655,n
+Glyn,Morgan,36,6 km,lorry,concussion,0,8.50am,Wednesday,September,39813,y
+Luke,Murphy,20,3 miles,messing around,broken arm,0,10pm,Saturday,April,78264,y
+Lewis,Ofan,36,4 miles,hit car,"concussion, sprained wrists",0,10.30,Sunday,August,45211,y
+Matthew,Ogunwe,25,10km,car turning,broken leg,0,8.30am,Thursday,May,97655,y
+Dylan,Omerod,42,8 km,bus pulled out,"concussion, multiple fractures",2,8.45am,,October,78264,y
+Patrick,O'Toole,21,5miles,slipped on oil patch,broken arm,0,8.20am,Monday,June,39813,y
+Zoe,Painter,21,2 miles,skidded  ,abrasions,0,10am,Wednesday,July,78264,
+Eric,Passant,67,3 miles,slipped on leaves,"abrasions, shock",1,9.50am,Friday,November,97655,n
+Anthony,Patrick,17,3 miles,dragged under lorry,severe head injuries,5,4.30pm,Monday,April,97655,y
+Cath,Pickin,16,half mile,puncture by nail,abrasions on leg,0,7.30am,Tuesday,,79655,y
+Kobi,Pitts,34,3 miles,bus,broken arm and sprained wrist,0,11am,Tuesday,August,97655,y
+Simon,Porter,66,5 miles,hit cyclist,broken arm,0,3.30pm,Tuesday,June,39813,y
+Kate,Price,17,5 miles,car collision,concussion,0,8am,Friday,June,39813,y
+Dee,Pugh,11,about 1 mile,car hit,dislocated shoulder,1,3.30pm,Monday,August,97655,y
+Simon,Rice,11,100m,hit friend,suspected concussion,0,4pm,Sunday,June,78264,y
+Bob,Roberts,138,3 miles,lorry collision,broken arm,0,8.25am,Monday,January,79264,n
+Benjamin,Ronan,60,1 mile,collision with cyclist,abrasions,0,8am,Monday,March,39813,n
+Michael,Root,13,30m,wing mirror,deep cuts,0,5pm,Monday,August,39813,y
+Jonathan,Sanders,9,200m,hit car,concussion,1,2.30pm,Tuesday,December,39813,y
+Simon,Sefton,15,3km,car hit,concussion,1,,Tuesday,May,97655,n
+Arvinder,Sethi,12,1200m,lorry,multiple fractures,40,4.40pm,Thursday,May,39813,n
+Dave,Smith,37,23km,van pulled out,"concussion, multiple fractures",2,3.30pm,Saturday,June,39014,
+John,Smith,45,3 km,skid,concussion,0,7.45,Tuesday,May,78264,y
+Millie,Smith,88,2 miles,hit by car,"bruising, shock",1,2pm,Tuesday,April,78264,n
+Jacob,Squires,46,7km,skidded on wet road,severe abrasions,0,8.50am,Sunday,September,45211,y
+Jodie,Stanton,18,5km,hit brick in road,abrasions to left leg,0,5.15pm,Thursday,January,97655,y
+Sam,Thomas,9,,hit tree,broken wrist,0,15.45,Wednesday,December,39813,y
+Manny,Umberton,9,2 m,hit kerb,dislocated thumb,0,9.30am,Sunday,April,78264,y
+Ian,Wade,12,2km,car  ,concussion with complications,3,10 am,Tuesday,March,39813,y
+Natalie,Walken,50,50m ,"brakes failed, hit kerb","broken wrist, bruising",0,1300,Wednesday,March,39813,n
+Agatha,Walker,64,1 mile,knocked by car,fractured wrist,0,10am,Wednesday,October,78264,n
+Kerry,Wilde,52,3km,car didn’t look,abrasions to left arm,0,10,Saturday,May,97655,n
+Jordan,Williams,35,4km,hit fence,broken fingers,0,9.15am,Tuesday,May,97655,y
+Marion,Wren,8.5,300m,cyclist collision,bruising,0,10,Saturday,May,39014,
