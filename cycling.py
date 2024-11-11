@@ -30,4 +30,7 @@ month_map = {
 
 data["month of accident"] = data["month of accident"].str.strip().apply(lambda x: month_map.get(x, x))
 
-print(data["month of accident"].unique())
+# exercise 15.2 q7, box plot to show ages of cyclist wearing helmets and not
+
+sns.boxplot(x="age", y="wearing a helmet?", data=data)
+plt.show()
